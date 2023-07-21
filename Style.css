@@ -70,6 +70,7 @@ font-family: "Bradley Hand ITC";
 	position: center;
 	width: 100%;
 	display: flex;
+	object-fit: cover;
 }
 /* The Overlay (background) */
 
